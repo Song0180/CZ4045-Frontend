@@ -52,7 +52,7 @@ def clean_list_text(text):
 st.title('💻 LoL Sentiment Analyzer')
 
 
-st.subheader('Previous Seniments')
+st.subheader('Previous Sentiments')
 
 data_load_state = st.text('Loading data...')
 data = pd.read_csv("main_data.csv")
