@@ -69,5 +69,4 @@ This section displays a table of LOL related reddit post titles with the user-sp
 
 This section displays a stacked column chart of the overall sentiment trends, which is similar to what the user can see previously in the Previous Trends section. The user will notice that the polarity of the new data over the month of the user-specified date is appended at the right most of the chart, which reflects the latest polarity trends.
 
-**NOTE**
-While you are free to add any data that contains LOL related reddit post titles, we have included a sample data set `sample_data.csv` in this repository and we highly recommend using it for testing purpose.
+**NOTE that While you are free to add any data that contains LOL related reddit post titles, we have included a sample data set `sample_data.csv` in this repository and we highly recommend using it for testing purpose.**
